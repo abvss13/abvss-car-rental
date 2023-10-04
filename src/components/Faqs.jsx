@@ -21,7 +21,7 @@ export function Faqs() {
           href="mailto:hello@example.com"
           className="text-slate-300 hover:text-white underline underline-offset-4 decoration-slate-200"
         >
-          reach out to us
+          reach out to us on abdulabass1738@gmail.com
         </a>
         .
       </p>

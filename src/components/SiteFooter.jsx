@@ -48,16 +48,16 @@ export function SiteFooter() {
         </div>
       </div>
       <div className="flex flex-col-reverse md:flex-row items-center justify-between gap-4 border-t border-neutral-900 pt-8 pb-12 text-[15px] tracking-wide">
-        <p>© Copyright {new Date().getFullYear()}. All rights reserved.</p>
+        <p>© Abvss Copyright {new Date().getFullYear()}. All rights reserved.</p>
         <p>
           Built by{" "}
           <a
-            href="https://github.com/edroamz"
+            href="https://github.com/abvss13"
             target="_blank"
             rel="noreferrer"
             className="text-slate-300 hover:text-white underline underline-offset-4 decoration-slate-200"
           >
-            Eduardo Ambriz
+            Abdullahi Abass
           </a>
         </p>
       </div>
