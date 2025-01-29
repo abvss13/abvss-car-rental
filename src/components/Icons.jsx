@@ -253,7 +253,7 @@ export const Icons = {
         strokeWidth="32"
       />
       <path
-        d="M176 16h24a8 8 0 0 1 8 8h0a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16h0a8 8 0 0 1 8-8h24"
+        d="M176 16h24a8 8  0 0 1 8 8h0a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16h0a8 8 0 0 1 8-8h24"
         fill="none"
         stroke="currentColor"
         strokeLinecap="round"

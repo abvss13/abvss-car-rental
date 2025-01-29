@@ -10,7 +10,7 @@ export const vehicles = [
     color: { id: "c-white", name: "white" },
     featured: true,
     price: {
-      perDay: { retailPrice: 99, discountPrice: 79 },
+      perDay: { retailPrice: 7899, discountPrice: 6679 },
     },
     details: {
       transmission: "automatic",
@@ -50,7 +50,7 @@ export const vehicles = [
     color: { id: "c-white", name: "white" },
     featured: true,
     price: {
-      perDay: { retailPrice: 1199, discountPrice: 899 },
+      perDay: { retailPrice: 8199, discountPrice: 7899 },
     },
     details: {
       transmission: "7-Speed Automatic",
@@ -92,7 +92,7 @@ export const vehicles = [
     color: { id: "c-black", name: "black" },
     featured: true,
     price: {
-      perDay: { retailPrice: 149, discountPrice: 109 },
+      perDay: { retailPrice: 8849, discountPrice: 8109 },
     },
     details: {
       transmission: "FWD, 2.5-Liter 4-cylinder Hybrid Engine, ECVT",
@@ -130,7 +130,7 @@ export const vehicles = [
     color: { id: "c-black", name: "black" },
     featured: false,
     price: {
-      perDay: { retailPrice: 300 },
+      perDay: { retailPrice: 3900 },
     },
     details: {
       transmission: "6 speed automatic transmission",
@@ -173,7 +173,7 @@ export const vehicles = [
     color: { id: "c-yellow", name: "yellow" },
     featured: true,
     price: {
-      perDay: { retailPrice: 109, discountPrice: 89 },
+      perDay: { retailPrice: 5109, discountPrice: 4489 },
     },
     details: {
       transmission: "manual",
@@ -213,7 +213,7 @@ export const vehicles = [
     color: { id: "c-cyan", name: "cyan" },
     featured: false,
     price: {
-      perDay: { retailPrice: 56 },
+      perDay: { retailPrice: 5556 },
     },
     details: {
       transmission: "6MT or N DCT",
@@ -251,7 +251,7 @@ export const vehicles = [
     color: { id: "c-black", name: "black" },
     featured: false,
     price: {
-      perDay: { retailPrice: 119 },
+      perDay: { retailPrice: 5119 },
     },
     details: {
       transmission: "",
@@ -290,7 +290,7 @@ export const vehicles = [
     color: { id: "c-white", name: "white" },
     featured: false,
     price: {
-      perDay: { retailPrice: 450 },
+      perDay: { retailPrice: 6450 },
     },
     details: {
       transmission: "8-speed M Steptronic sport transmission",
@@ -328,7 +328,7 @@ export const vehicles = [
     color: { id: "c-black", name: "black" },
     featured: false,
     price: {
-      perDay: { retailPrice: 199 },
+      perDay: { retailPrice: 7199 },
     },
     details: {
       transmission: "automatic",
@@ -366,7 +366,7 @@ export const vehicles = [
     color: { id: "c-black", name: "black" },
     featured: false,
     price: {
-      perDay: { retailPrice: 47 },
+      perDay: { retailPrice: 5547 },
     },
     details: {
       transmission: "",
@@ -406,7 +406,7 @@ export const vehicles = [
     color: { id: "c-white", name: "white" },
     featured: false,
     price: {
-      perDay: { retailPrice: 29 },
+      perDay: { retailPrice: 6629 },
     },
     details: {
       transmission: "",

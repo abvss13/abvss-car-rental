@@ -96,7 +96,7 @@ export function SiteHeader() {
           to="/"
           className="font-semibold text-[26px] tracking-wide leading-none"
         >
-          Rides
+          Abvss Rentals
         </Link>
         <nav className="hidden md:block ml-20">
           <ul className="flex flex-row gap-x-12">
